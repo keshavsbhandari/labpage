@@ -2,7 +2,8 @@ Assumptions:
     - Operating system is either Mac or Ubuntu
     - Latest Anaconda3 or Miniconda3 is already installed
 
-Step: 
+Step:
+
     1. Go to the root folder, labsite/ if root is different name rename to labsite
         should look like this , 
             labsite
